@@ -1,0 +1,2 @@
+# Lib Feetech via pypot (branche STS3215)
+pypot @ git+https://github.com/pollen-robotics/pypot@support-feetech-sts3215

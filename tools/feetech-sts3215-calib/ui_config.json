@@ -1,0 +1,20 @@
+{
+  "port": "COM8",
+  "baud": 1000000,
+  "auto_apply": false,
+  "limits": {
+    "min": -180,
+    "max": 180,
+    "tick": 90,
+    "res": 1
+  },
+  "preset": {
+    "P": 32,
+    "I": 0,
+    "D": 0,
+    "mode": 0,
+    "max_accel": 0,
+    "accel": 0,
+    "lock": 0
+  }
+}
